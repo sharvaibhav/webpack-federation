@@ -1,0 +1,1 @@
+# POC for angular with webpack federtaion using @angular-architects configuration
